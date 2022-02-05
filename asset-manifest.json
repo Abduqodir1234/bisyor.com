@@ -8,8 +8,8 @@
     "static/js/2.03d2e9c1.chunk.js.map": "/static/js/2.03d2e9c1.chunk.js.map",
     "static/js/3.0bb4f78e.chunk.js": "/static/js/3.0bb4f78e.chunk.js",
     "static/js/3.0bb4f78e.chunk.js.map": "/static/js/3.0bb4f78e.chunk.js.map",
-    "main.js": "/static/js/main.b2d507b2.chunk.js",
-    "main.js.map": "/static/js/main.b2d507b2.chunk.js.map",
+    "main.js": "/static/js/main.92b021d7.chunk.js",
+    "main.js.map": "/static/js/main.92b021d7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.362f2a3b.js",
     "runtime-main.js.map": "/static/js/runtime-main.362f2a3b.js.map",
     "static/js/6.8c475059.chunk.js": "/static/js/6.8c475059.chunk.js",
@@ -43,7 +43,7 @@
     "static/css/7.0f455e89.chunk.css.map": "/static/css/7.0f455e89.chunk.css.map",
     "static/js/6.8c475059.chunk.js.LICENSE.txt": "/static/js/6.8c475059.chunk.js.LICENSE.txt",
     "static/js/7.a57d9a53.chunk.js.LICENSE.txt": "/static/js/7.a57d9a53.chunk.js.LICENSE.txt",
-    "static/js/main.b2d507b2.chunk.js.LICENSE.txt": "/static/js/main.b2d507b2.chunk.js.LICENSE.txt",
+    "static/js/main.92b021d7.chunk.js.LICENSE.txt": "/static/js/main.92b021d7.chunk.js.LICENSE.txt",
     "static/media/IBMPlexSans-Bold-Latin1.96eb57c1.woff2": "/static/media/IBMPlexSans-Bold-Latin1.96eb57c1.woff2",
     "static/media/IBMPlexSans-Bold.2642e569.woff": "/static/media/IBMPlexSans-Bold.2642e569.woff",
     "static/media/IBMPlexSans-BoldItalic-Latin1.597509ab.woff2": "/static/media/IBMPlexSans-BoldItalic-Latin1.597509ab.woff2",
@@ -182,6 +182,6 @@
   "entrypoints": [
     "static/js/runtime-main.362f2a3b.js",
     "static/js/6.8c475059.chunk.js",
-    "static/js/main.b2d507b2.chunk.js"
+    "static/js/main.92b021d7.chunk.js"
   ]
 }
